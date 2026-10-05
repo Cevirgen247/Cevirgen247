@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Tim Cevirgen
 
-### `Cevirgen247` · he/him
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cevirgen247&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
